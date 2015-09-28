@@ -1,5 +1,5 @@
-function bar() {
+function barz() {
   return 'bar';
 }
 
-bar();
+barz();
